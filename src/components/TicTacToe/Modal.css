@@ -1,0 +1,40 @@
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 280px;
+    height: 300px;
+    border: none;
+    outline: none;
+    font-size: 26px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 50px 50px rgba(0, 0, 0, 0.8);
+    border-radius: 30px;
+}
+
+.modal-content {
+    background-color: rgb(23, 23, 23);
+    padding: 20px;
+    border-radius: 30px;
+  }
+
+button{
+    width: 200px;
+    height: 80px;
+    border: white;
+    outline: none;
+    cursor: pointer;
+    border-radius: 20px;
+    background: rgb(34, 34, 34);
+    font-size: 26px;
+    color: white;
+    margin-top: 25px;
+    margin-bottom:   50px;
+}
+
+button:hover{
+    background: rgb(41, 41, 41);
+}

@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Tic Tac Toe in React
+
+Singleplayer Tic Tac Toe browser game to practice the basics of React.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
